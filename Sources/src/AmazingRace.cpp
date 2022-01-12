@@ -11,7 +11,6 @@
 
 
 
-
 // Function: 
 // 			dijkstra
 // Description: 
@@ -121,7 +120,7 @@ double timeToHour(const char* time)
 	int minutes = 0;
 
 	// If at least hours don't get a value, exit the program
-	if (sscanf_s(timeStr, "%02d%02d", &hours, &minutes) < 1)
+	if (sscanf(timeStr, "%02d%02d", &hours, &minutes) < 1)
 	{
 		exit(1);
 	}
@@ -738,5 +737,5 @@ void calculateTotalTime(char strTime[], double totalTime)
 	int hours = (int)totalTime;
 	int minutes = (int)round((totalTime - hours) * kOneHourM);
 
-	sprintf_s(strTime, kArraySizeBuffer, "%02d:%02d", hours, minutes);
+	sprintf(strTime, "%02d:%02d", hours, minutes);
 }
