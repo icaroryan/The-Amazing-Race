@@ -1,5 +1,8 @@
 # The-Amazing-Race-Variant
-The program finds the flights required for the fastest route to get from one city to another, depending on their connections, flying time, boarding and landing time.
+
+A C++ application that finds the fastest route - with connections - between two airports in two different cities. This program uses an weighted undirected multigraph data structure to store the connections between the airports with all its data, such as the flying time, take-off time and landing time. Inspired by "The Amazing Race" TV Show, in which contestants frequently have to fly from one city to another as quickly as possible, without concern for cost.
+
+In order to find the fastest route, the program uses Dijkstra's algorithm to find the shortest path between two nodes/airports, taking into consideration all the variables mentioned before.
 
 # ✈ Flight Schedules
 
