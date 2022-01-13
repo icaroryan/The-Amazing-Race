@@ -1,7 +1,7 @@
 # The-Amazing-Race-Variant
 The program finds the flights required for the fastest route to get from one city to another, depending on their connections, flying time, boarding and landing time.
 
-# Flight Schedules
+# ✈ Flight Schedules
 
 ![image](https://user-images.githubusercontent.com/50868010/149252749-0da48879-4683-4851-9e5b-88bee0996cd6.png)
 
