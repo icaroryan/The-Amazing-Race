@@ -4,6 +4,8 @@ A C++ application that finds the fastest route - with connections - between two 
 
 In order to find the fastest route, the program uses Dijkstra's algorithm to find the shortest path between two nodes/airports, taking into consideration all the variables mentioned before.
 
+## 🧪 [Demo](https://replit.com/@icaroryan/The-Amazing-Race-Demo?v=1)
+
 # ✈ Flight Schedules
 
 ![image](https://user-images.githubusercontent.com/50868010/149252749-0da48879-4683-4851-9e5b-88bee0996cd6.png)
