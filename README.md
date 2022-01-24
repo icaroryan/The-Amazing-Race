@@ -7,7 +7,13 @@ In order to find the fastest route, the program uses Dijkstra's algorithm to fin
 ## 🧪 [Live Demo](https://replit.com/@icaroryan/The-Amazing-Race-Demo?v=1)
 
 #  Dijkstra's Algorithm
-![GIF](https://gifimage.net/wp-content/uploads/2018/11/dijkstra-gif-7.gif)
+![GIF](https://gifimage.net/wp-content/uploads/2018/11/dijkstra-gif-7.gif) <br/>
+
+You can see Dijkstra’s algorithm happening in nature as a bolt of lightning searches for the path of least resistance to the ground.
+
+![Lightning bolt](https://user-images.githubusercontent.com/50868010/150703764-94b33477-55a6-448e-be8d-4f924dd3c401.gif)
+
+
 
 
 # ✈ Flight Schedules
